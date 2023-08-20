@@ -1,0 +1,11 @@
+
+1692544088767:::1 GET: /api/users/
+1692544171229:::1 POST: /api/users
+1692544210676:::1 GET: /api/users/
+1692544219569:::1 GET: /api/users/64e22cabd5f428de3d21a033
+1692544397643:::1 DELETE: /api/users/64e0a91d5168b28835ab357f
+1692544403954:::1 DELETE: /api/users/64e22cabd5f428de3d21a033
+1692544433847:::ffff:127.0.0.1 GET: /users
+1692544442926:::ffff:127.0.0.1 GET: /api/users
+1692544449008:::ffff:127.0.0.1 GET: /api/users/64e22cabd5f428de3d21a033
+1692544455006:::ffff:127.0.0.1 GET: /api/users/
